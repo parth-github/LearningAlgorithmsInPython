@@ -1,0 +1,14 @@
+{
+    "name":"Jacob Bellamy",
+    "id_number":3352976,
+    "gpa":8.2,
+    "courses":[
+        "Compsci 101", "Compsci 105", "Phil 101", "Maths 108"
+    ],
+    "fees_paid":true,
+    "address": {
+        "street_address": "1 Horse Lane",
+        "city": "Auckland",
+        "post_code": "0632"
+    }
+}
